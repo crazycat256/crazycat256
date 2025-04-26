@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm crazycat256</h1>
-<h3 align="center">A 19 y/o passionate developer, cybersecurity enthusiast and engineering student</h3>
+<h3 align="center">A 20 y/o passionate developer, cybersecurity enthusiast and engineering student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
